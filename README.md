@@ -16,3 +16,12 @@
 
 ## Список требований
 [Requirements.md](https://github.com/primakin/architecture-propdevelopment/blob/propdevelopment/Task3/Requirements.md)
+
+# Задание 4. Защита доступа к кластеру Kubernetes
+Таблица ролей - [roles.md](https://github.com/primakin/architecture-propdevelopment/blob/propdevelopment/Task4/roles.md)
+
+Скрипт создания пользователей - [create_users.sh](https://github.com/primakin/architecture-propdevelopment/blob/propdevelopment/Task4/create_users.sh)
+
+Скрипт создания ролей - [create_roles.sh](https://github.com/primakin/architecture-propdevelopment/blob/propdevelopment/Task4/create_roles.sh)
+
+Скрипт назначения ролей - [create_bindings.sh](https://github.com/primakin/architecture-propdevelopment/blob/propdevelopment/Task4/create_bindings.sh)
