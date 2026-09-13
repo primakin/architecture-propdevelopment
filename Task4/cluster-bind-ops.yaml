@@ -1,0 +1,12 @@
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: cluster-bind-ops
+subjects:
+  - kind: ServiceAccount
+    name: devops
+    namespace: prop-dev
+roleRef:
+  kind: ClusterRole
+  name: cluster-role-ops
+  apiGroup: rbac.authorization.k8s.io
