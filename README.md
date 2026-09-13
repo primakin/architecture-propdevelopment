@@ -25,3 +25,6 @@
 Скрипт создания ролей - [create_roles.sh](https://github.com/primakin/architecture-propdevelopment/blob/propdevelopment/Task4/create_roles.sh)
 
 Скрипт назначения ролей - [create_bindings.sh](https://github.com/primakin/architecture-propdevelopment/blob/propdevelopment/Task4/create_bindings.sh)
+
+# Задание 5. Управление трафиком внутри кластера Kubertnetes
+Сетевая политика - [non-admin-api-allow.yaml](https://github.com/primakin/architecture-propdevelopment/blob/propdevelopment/Task5/non-admin-api-allow.yaml)
